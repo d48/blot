@@ -4,5 +4,6 @@
   "hubot-maps",
   "hubot-rules",
   "hubot-redis-brain",
-  "hubot-giphy"
+  "hubot-giphy",
+  "hubot-business-cat"
 ]
