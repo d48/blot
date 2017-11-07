@@ -5,6 +5,5 @@
   "hubot-rules",
   "hubot-redis-brain",
   "hubot-giphy",
-  "hubot-business-cat",
-  "hubot-karma-classic"
+  "hubot-business-cat"
 ]
