@@ -15,5 +15,4 @@
 
 module.exports = (robot) ->
   robot.respond /(kill|execute)? (.*)/i, (msg) ->
-    googleMe msg, msg.match[3], (url) ->
-      msg.send "#{msg.match[3]} is dead ☠️""
+    msg.send "#{msg.match[3]} is dead ☠️""
