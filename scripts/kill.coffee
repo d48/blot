@@ -15,4 +15,4 @@
 
 module.exports = (robot) ->
   robot.respond /(kill|execute)? (.*)/i, (msg) ->
-    msg.send "#{msg.match[2]} is dead"
+    msg.send "#{msg.match[2]} is dead ☠️""
