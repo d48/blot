@@ -31,7 +31,7 @@ fromFullCharCode = (args...) ->
       chars.push(String.fromCharCode(high, low))
       
 
-var emojis = {
+emojis = {
   '100': '1f4af',
   '1234': '1f522',
   haircut: '1f487',
