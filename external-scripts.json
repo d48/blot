@@ -6,5 +6,6 @@
   "hubot-redis-brain",
   "hubot-giphy",
   "hubot-business-cat",
-  "hubot-google-images"
+  "hubot-google-images",
+  "hubot-jokes"
 ]
